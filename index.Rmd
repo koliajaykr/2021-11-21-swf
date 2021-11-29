@@ -1,5 +1,5 @@
 ---
-title: "Management of manholes in India"
+title: "Management of Manholes in India"
 subtitle: "Level of awareness about the manholes-related <br>incidents & deaths"
 author: Ajay Koli | Vishwakarma University, Pune - India <br>.orange[Sanitation Workers Forum - Online Conference]
 date: "`r format(Sys.Date(), '%B %e, %Y')`"
